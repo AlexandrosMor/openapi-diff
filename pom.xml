@@ -75,7 +75,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <project.build.outputTimestamp>2023-02-28T20:47:43Z</project.build.outputTimestamp>
+        <project.build.outputTimestamp>2023-03-27T21:16:27Z</project.build.outputTimestamp>
         <project.scm.id>github</project.scm.id>
 
         <sonar.organization>openapitools</sonar.organization>
